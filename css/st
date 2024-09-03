@@ -308,7 +308,7 @@ header .container .toggle:hover span {
         font-size: 30px;
     }
     .home .container .swap-1:hover a,.home .container .swap-2:hover a,.home .container .swap-3:hover a {
-        font-size: 46px;
+        font-size: 36px;
     }
 }
 .home .container  h2 a {
