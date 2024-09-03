@@ -293,7 +293,6 @@ header .container .toggle:hover span {
     .home .container .left {
         align-items: center;
         width: 100%;
-        text-align: center;
     }
     .home .container .swap-1, .home .container .swap-2,.home .container .swap-3 {
         width: 200px;
